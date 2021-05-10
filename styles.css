@@ -1,0 +1,8 @@
+header {
+    display: inline-block;
+    height: 500px;
+    width: 100%;
+    background-image: cover;
+    background-image: no-repeat;
+    justify-content: auto;
+}
