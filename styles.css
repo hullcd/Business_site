@@ -1,10 +1,8 @@
-.cloud {
-  display: inline-block;
-  height: 500px;
-  width: 100%;
-  background-image: url("../Business_site/Resources/cloud.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
+.top {
+  text-align: center;
+}
+.name {
+font-size: 30px;
+color: blue;
+
 }
